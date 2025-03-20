@@ -72,7 +72,6 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 26.50 seconds
 ```
 
-[!Diagram](https://github.com/Diptiranjan9/Nmap-Notes/blob/main/pcap/Screenshot%202025-02-27%20at%203.03.39%20PM.png)
+![Diagram](https://github.com/Diptiranjan9/Nmap-Notes/blob/main/pcap/Screenshot%202025-02-27%20at%203.03.39%20PM.png)
 
-[!Diagram](https://github.com/Diptiranjan9/Nmap-Notes/blob/main/pcap/Screenshot%202025-02-27%20at%203.07.19%20PM.png)
-
+![Diagram](https://github.com/Diptiranjan9/Nmap-Notes/blob/main/pcap/Screenshot%202025-02-27%20at%203.07.19%20PM.png)
